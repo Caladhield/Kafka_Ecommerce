@@ -1,0 +1,51 @@
+product_id,product_name,quantity,sale_price_USD
+1,Skis - Brand X,1000,300
+2,Snowboard - Brand Y,1000,250
+3,Ski Boots - Brand Z,1000,200
+4,Snowboard Boots - Brand W,1000,150
+5,Ski Jacket - Brand A,1000,170
+6,Snowboard Jacket - Brand B,1000,140
+7,Ski Pants - Brand C,1000,110
+8,Snowboard Pants - Brand D,1000,90
+9,Ski Gloves - Brand E,1000,55
+10,Snowboard Gloves - Brand F,1000,45
+11,Ski Goggles - Brand G,1000,35
+12,Snowboard Goggles - Brand H,1000,28
+13,Ski Helmet - Brand I,1000,90
+14,Snowboard Helmet - Brand J,1000,75
+15,Ski Socks - Brand K,1000,10
+16,Snowboard Socks - Brand L,1000,8
+17,Ski Base Layer - Brand M,1000,50
+18,Snowboard Base Layer - Brand N,1000,44
+19,Ski Mid Layer - Brand O,1000,63
+20,Snowboard Mid Layer - Brand P,1000,53
+21,Ski Backpack - Brand Q,1000,88
+22,Snowboard Backpack - Brand R,1000,77
+23,Ski Bindings - Brand S,1000,155
+24,Snowboard Bindings - Brand T,1000,135
+25,Ski Wax - Brand U,1000,20
+26,Snowboard Wax - Brand V,1000,15
+27,Ski Poles - Brand W,1000,55
+28,Snowboard Stomp Pad - Brand X,1000,10
+29,Ski Tuning Kit - Brand Y,1000,30
+30,Snowboard Tool Kit - Brand Z,1000,25
+31,Ski Lock - Brand A,1000,20
+32,Snowboard Lock - Brand B,1000,15
+33,Ski Carrier - Brand C,1000,10
+34,Snowboard Wall Mount - Brand D,1000,25
+35,Ski Rack - Brand E,1000,40
+36,Snowboard Rack - Brand F,1000,35
+37,Ski Waxing Iron - Brand G,1000,55
+38,Snowboard Edge Tuner - Brand H,1000,30
+39,Ski Boot Dryer - Brand I,1000,40
+40,Snowboard Boot Dryer - Brand J,1000,35
+41,Snow Tubes - Brand K,1000,63
+42,Snow Sled - Brand L,1000,53
+43,Snowshoes - Brand M,1000,105
+44,Snow Shovel - Brand N,1000,93
+45,Ice Axe - Brand O,1000,127
+46,Snow Pick - Brand P,1000,112
+47,Hand Warmers - Brand Q,1000,158
+48,Heated Socks - Brand R,1000,147
+49,Snowmobile Cover - Brand S,1000,80
+50,Ice Fishing Auger - Brand T,1000,70
